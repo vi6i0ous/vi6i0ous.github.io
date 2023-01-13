@@ -17,3 +17,4 @@
 <h4>☆Genshin Impact </h4>
 <h4>☆Valorant </h4>	
 <h4>☆MLBB </h4>	
+<h4>☆Cookie Run Kingdom </h4>	
