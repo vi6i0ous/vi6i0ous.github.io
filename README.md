@@ -12,7 +12,7 @@
 <h4>Aerosmith </h4>	
 <h4>Queen </h4>	
 
-![Sex Pistols](https://www.russh.com/wp-content/uploads/2021/01/sex-pistols.jpg)
+![Sex Pistols](https://th.bing.com/th/id/R.7170e176e81724cb8a707be38ee4f6e6?rik=vygZmc9tya%2fiZg&riu=http%3a%2f%2fimg.wennermedia.com%2fsocial%2frs-6307-rectangle.jpg&ehk=5ed64IsAgb0IM0cqzxcpj2AbaaYIi8BDKaKRhrq%2b6Fo%3d&risl=&pid=ImgRaw&r=0)
 
 
 <h3>MY OPINIONS ON ROCK </h3>	
