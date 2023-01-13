@@ -13,3 +13,7 @@
 <h4>☆The Neighborhood </h4>	
 <h4>☆I Monster </h4>	
 
+<h2>FAVOURITE VIDEO GAMES </h2>	
+<h4>☆Genshin Impact </h4>
+<h4>☆Valorant </h4>	
+<h4>☆MLBB </h4>	
