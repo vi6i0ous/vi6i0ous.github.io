@@ -1,6 +1,6 @@
 # vi6i0ous.github.io
 
-<h1>Hi 9-Bobola</h1>	
+<h1>Hello, Readers!</h1>	
 <h4>stan Tyler, the creator and Deftones</h4>	
 
 <h2>BEST ROCK BANDS OF ALL TIME </h2>	
