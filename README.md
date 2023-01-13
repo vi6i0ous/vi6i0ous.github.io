@@ -3,7 +3,20 @@
 <h1>Hi 9-Bobola</h1>	
 <h4>stan Tyler, the creator and Deftones</h4>	
 
-<h2>FAVOURITE BANDS/ARTISTS </h2>	
+<h2>BEST ROCK BANDS OF ALL TIME </h2>	
+<h4>The Beatles </h4>	
+<h4>Rolling Stone </h4>	
+<h4>Little Richard and the Upsetters </h4>
+<h4>Pink Floyd </h4>	
+<h4>White Riot </h4>	
+<h4>Aerosmith </h4>	
+<h4>Queen </h4>	
+
+<h3>MY OPINIONS ON ROCK </h3>	
+<h4>My prefered genre for music is either punk rock or indie-pop. Singers and bands I recommend for these artists if you're interested in Indie-pop. Lana Del ray and Laufey are my favourites. For Punk Rock, I recommend bands like Sex Pistols and Deftones. I think that the genre punk rock expresses a lot more emotional anger than othe genres do, some of them point out the struggles of the youth then and now - this in my opinion isn't really talked about that much or not many artists have sang or created songs like this nowadays. </h4>	
+
+
+<h2>FAVOURITE ARTIST/BANDS </h2>	
 <h4>☆Lana Del Ray </h4>	
 <h4>☆Deftones </h4>	
 <h4>☆Sex Pistols </h4>	
