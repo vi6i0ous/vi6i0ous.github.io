@@ -33,4 +33,4 @@
 <h4>☆MLBB </h4>	
 <h4>☆Cookie Run Kingdom </h4>	
 
-![Genshin](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgenshin-impact.fandom.com%2Ff%2Fp%2F4400000000000376787&psig=AOvVaw0rqT8AOGIygwMR64BIZG3o&ust=1673916372989000&source=images&cd=vfe&ved=0CA8QjRxqGAoTCMjzwcTuyvwCFQAAAAAdAAAAABC_Aw)
+![Genshin](https://static.wikia.nocookie.net/c4a7e95e-396b-45f7-8e11-214994194f4e/scale-to-width/755))
