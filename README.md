@@ -34,3 +34,9 @@
 <h4>☆Valorant </h4>	
 <h4>☆MLBB </h4>	
 <h4>☆Cookie Run Kingdom </h4>	
+
+<h3>WEEKLY SCHEDULE </h3>	
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Monday  | Tuesday  | Wednesday  | Thursday  | Friday  |
+| Study  | Study  | Study  | Study  | Rest  | 
+
