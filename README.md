@@ -14,7 +14,7 @@
 
 ![Sex Pistols](https://th.bing.com/th/id/R.7170e176e81724cb8a707be38ee4f6e6?rik=vygZmc9tya%2fiZg&riu=http%3a%2f%2fimg.wennermedia.com%2fsocial%2frs-6307-rectangle.jpg&ehk=5ed64IsAgb0IM0cqzxcpj2AbaaYIi8BDKaKRhrq%2b6Fo%3d&risl=&pid=ImgRaw&r=0)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kww98g8tcgbyqmjwxefsxtmz3&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kww98g8tcgbyqmjwxefsxtmz3&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <h2>FAVOURITE ARTIST/BANDS </h2>	
 <h4>☆Lana Del Ray </h4>	
