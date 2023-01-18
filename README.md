@@ -20,9 +20,9 @@
 
 <h2>MORE ABOUT ME:> </h2>	
 <h4>☆Introvert :skull: </h4>
-<h4>☆Love sleeping in during weekends :Smiling Face with Heart-Eyes: </h4>	
-<h4>☆Cats for lyfe </h4>	
-<h4>☆Cookie Run Kingdom </h4>	
+<h4>☆Loves sleeping in during the weekends </h4>	
+<h4>☆Cats for layp </h4>	
+<h4>☆Loves playing genshin (xiao<3) </h4>	
 
 ![Genshin](https://static.wikia.nocookie.net/c4a7e95e-396b-45f7-8e11-214994194f4e/scale-to-width/755))
 
