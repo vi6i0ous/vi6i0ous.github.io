@@ -20,8 +20,9 @@
 
 <h2>MORE ABOUT ME:> </h2>	
 <h4>☆Introvert :skull: </h4>
-<h4>☆Valorant </h4>	
-<h4>☆MLBB </h4>	
+<h4>☆Love sleeping in during weekends :smiling face with heart-eyes
+: </h4>	
+<h4>☆Cats for lyfe </h4>	
 <h4>☆Cookie Run Kingdom </h4>	
 
 ![Genshin](https://static.wikia.nocookie.net/c4a7e95e-396b-45f7-8e11-214994194f4e/scale-to-width/755))
