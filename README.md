@@ -20,7 +20,7 @@
 
 <h2>MORE ABOUT ME:> </h2>	
 <h4>☆Introvert :skull: </h4>
-<h4>☆Love sleeping in during weekends :smiling face with heart-eyes
+<h4>☆Love sleeping in during weekends :smiling face with heart-eyes:
 : </h4>	
 <h4>☆Cats for lyfe </h4>	
 <h4>☆Cookie Run Kingdom </h4>	
