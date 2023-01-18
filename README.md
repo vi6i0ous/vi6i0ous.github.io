@@ -14,9 +14,6 @@
 
 ![Sex Pistols](https://th.bing.com/th/id/R.7170e176e81724cb8a707be38ee4f6e6?rik=vygZmc9tya%2fiZg&riu=http%3a%2f%2fimg.wennermedia.com%2fsocial%2frs-6307-rectangle.jpg&ehk=5ed64IsAgb0IM0cqzxcpj2AbaaYIi8BDKaKRhrq%2b6Fo%3d&risl=&pid=ImgRaw&r=0)
 
-<h3>MY OPINIONS ON ROCK </h3>	
-<h4>My prefered genre for music is either punk rock or indie-pop. Singers and bands I recommend for these artists if you're interested in Indie-pop. Lana Del ray and Laufey are my favourites. For Punk Rock, I recommend bands like Sex Pistols and Deftones. I think that the genre punk rock expresses a lot more emotional anger than othe genres do, some of them point out the struggles that the youth are experiencing then and now - this in my opinion isn't really talked about that much or not many artists have sang or created songs like this nowadays. </h4>	
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kww98g8tcgbyqmjwxefsxtmz3&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
 <h2>FAVOURITE ARTIST/BANDS </h2>	
