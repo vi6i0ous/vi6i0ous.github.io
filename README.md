@@ -32,3 +32,7 @@
 
 ![Genshin](https://static.wikia.nocookie.net/c4a7e95e-396b-45f7-8e11-214994194f4e/scale-to-width/755))
 
+| FOOD      | TOP SONGS | FAVE SHOWS     |
+| :---        |    :----:   |          ---: |
+| PANCIT CANTON      | Romantic Homicide - d4vd       | All of Us Are Dead   |
+| INASAL   | Starboy - The Weeknd        | The Blacklist      |
