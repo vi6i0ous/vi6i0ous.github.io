@@ -28,7 +28,7 @@
 <h4>☆My celebrity crush is Sid Vicious and Robert Pattinson </h4>
 <h4>☆I like drawing charcoal portraits </h4>
 
-[Instagram](https://www.instagram.com/t0asty1.0/))
+[Instagram](https://www.instagram.com/t0asty1.0/)
 
 ![Genshin](https://static.wikia.nocookie.net/c4a7e95e-396b-45f7-8e11-214994194f4e/scale-to-width/755))
 
