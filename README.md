@@ -1,7 +1,7 @@
 # vi6i0ous.github.io
 
 <h1>Hello!｡･:*:･ﾟ★</h1>	
-
+<h5>"If you dance, I'll dance. And If you don't, I'll dance anyway" </h5>
 <h2>MY FAVOURITE ARTIST/BANDS </h2>	
 <h4>☆Lana Del Ray </h4>	
 <h4>☆Deftones </h4>	
