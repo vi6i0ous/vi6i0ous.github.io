@@ -34,5 +34,5 @@
 
 | FOOD      | TOP SONGS | FAVE SHOWS     |
 | :---        |    :----:   |          ---: |
-| PANCIT CANTON      | Romantic Homicide - d4vd       | All of Us Are Dead   |
-| INASAL   | Starboy - The Weeknd        | The Blacklist      |
+| Pancit canton     | Bad Habit - Steve Lacy       | All of Us Are Dead   |
+| Inasal   | Starboy - The Weeknd        | The Blacklist      |
