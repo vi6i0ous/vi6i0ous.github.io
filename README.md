@@ -21,11 +21,11 @@
 
 <h2>MORE ABOUT ME:> </h2>	
 <h4>☆Introvert :skull: </h4>
-<h4>☆I like sleeping in during the weekends </h4>	
-<h4>☆I play genshin 24/7 </h4>	
-<h4>☆Cats for layp </h4>
+<h4>☆I like sleeping in during the weekends :heart_eyes: </h4>	
+<h4>☆I play genshin 24/7 :neckbeard: </h4>	
+<h4>☆Cats for layp :pouting_cat: </h4>
 <h4>☆I like watching anime (i.e. Chainsaw Man, Nana, Jujutsu Kaisen)
-<h4>☆My celebrity crush is Sid Vicious and Robert Pattinson </h4>
+<h4>☆My celebrity crush is Sid Vicious and Robert Pattinson :cupid: </h4>
 <h4>☆I like drawing charcoal portraits </h4>
 
 [Instagram](https://www.instagram.com/t0asty1.0/)
