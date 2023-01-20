@@ -11,6 +11,7 @@
 <h4>☆The Smiths </h4>	
 <h4>☆The Neighborhood </h4>	
 <h4>☆I Monster </h4>	
+<h4>☆The Weeknd </h4>	
 
 <h2>MY FAVOURITE VIDEO GAMES </h2>	
 <h4>☆Genshin Impact </h4>
@@ -20,9 +21,14 @@
 
 <h2>MORE ABOUT ME:> </h2>	
 <h4>☆Introvert :skull: </h4>
-<h4>☆Loves sleeping in during the weekends </h4>	
-<h4>☆Cats for layp </h4>	
-<h4>☆Loves playing genshin (xiaoven<3) </h4>	
+<h4>☆I like sleeping in during the weekends </h4>	
+<h4>☆I play genshin 24/7 </h4>	
+<h4>☆Cats for layp </h4>
+<h4>☆I like watching anime (i.e. Chainsaw Man, Nana, Jujutsu Kaisen)
+<h4>☆My celebrity crush is Sid Vicious and Robert Pattinson </h4>
+<h4>☆I like drawing charcoal portraits </h4>
+<h4>☆I started charcoal portraits when I was 13 </h4>
+
 
 ![Genshin](https://static.wikia.nocookie.net/c4a7e95e-396b-45f7-8e11-214994194f4e/scale-to-width/755))
 
